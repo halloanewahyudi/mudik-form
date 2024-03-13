@@ -62,7 +62,7 @@ const formSubmit = async () => {
 </script>
 <template>
 
-    <form id="sheetdb-form" @submit.prevent="formSubmit" class="max-w-[480px] w-full  rounded-lg p-6 bg-white flex flex-col gap-5 shadow-2xl">
+    <form id="sheetdb-form" @submit.prevent="formSubmit" class=" flex flex-col gap-5 ">
         <p class="text-lg">Guna pendataan warga mudik, silakan isi formulir di bawah ini !</p>
         <hr class="my-2">
         <div class="form-group">

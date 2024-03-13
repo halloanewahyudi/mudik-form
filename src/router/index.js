@@ -6,9 +6,19 @@ const routes = [
     component: () => import('../views/Home.vue'),
   },
   {
+    path: '/form',
+    name: 'Form',
+    component: () => import('../views/FormView.vue'),
+  },
+  {
     path: '/thanks',
     name: 'Thanks',
     component: () => import('../views/Thanks.vue'),
+  },
+  {
+    path: '/info',
+    name: 'info',
+    component: () => import('../views/Thr.vue'),
   },
   // Tambahkan rute lain sesuai kebutuhan aplikasi Anda
 ];

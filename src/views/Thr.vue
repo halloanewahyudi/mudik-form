@@ -6,7 +6,7 @@ import CarsVue from '../components/icons/Cars.vue';
 </script>
 <template>
     <div class="flex flex-col gap-4">
-        <p class="text-xl font-semibold ">Segala puji bagi Allah جل جلاله yang telah mencurahkan rahmat dan hidayah-Nya. Dan
+        <p>Segala puji bagi Allah جل جلاله yang telah mencurahkan rahmat dan hidayah-Nya. Dan
             memberikan kita berbagai macam nikmat terutama nikmat iman, nikmat sehat wal’afiat dan
             nikmat panjang umur.
         </p>
@@ -36,4 +36,3 @@ selama jaga mudik lebaran.">
         </div>
     </div>
 </template>
-<!-- https://bit.ly/4a8nlqH -->

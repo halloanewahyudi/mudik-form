@@ -4,7 +4,7 @@
 
 @layer base {
   body{
-    @apply bg-brand-3 text-neutral-500;
+    @apply bg-brand-3 text-neutral-500 pt-20;
   }
 
   /* Chrome, Safari, Edge, Opera */
