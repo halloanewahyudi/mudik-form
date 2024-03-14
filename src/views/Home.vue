@@ -11,9 +11,7 @@ import CarsVue from '../components/icons/Cars.vue';
             nikmat panjang umur.
         </p>
         <p>
-            Berdasarkan Surat Rukun Warga 028 Nomor: 004/RW.028-PPC6/III/2024 Tanggal 04 Maret
-            2024 perihal Pemberitahuan yang ditindaklanjuti dengan Rapat Pengurus RT.01 pada
-            Jumat, 8 Maret 2024, maka dihasilkan beberapa rincian sebagai berikut:
+            Sebagaimana surat pemberitahuan RT.01 Nomor: 002/RT.001/PPC6/III/2024 tanggal, 10 Maret 2024, telah diinformasikan beberapa hal sebagai berikut:
         </p>
         <div class="flex flex-col gap-4">
             <ListItem title="THR untuk Petugas Kebersihan dan Keamanan" description="Penarikan uang THR untuk Petugas Kebersihan dan Keamanan1 di Lingkungan
